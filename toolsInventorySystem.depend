@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1597940813 source:/home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/toolsInventorySystem/Inventory.cpp
+	"Inventory.h"
+	<iostream>
+	"Admin.h"
+	"ToolUser.h"
+	"Tool.h"
+
+1597939764 /home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/toolsInventorySystem/Inventory.h
+	"Tool.h"
+
+1597941412 source:/home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/toolsInventorySystem/Admin.cpp
+	"Admin.h"
+	<iostream>
+	"ToolUser.h"
+	"Inventory.h"
+
+1597935520 /home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/toolsInventorySystem/Admin.h
+
+1597863336 source:/home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/toolsInventorySystem/Tool.cpp
+	"Tool.h"
+	<ctime>
+
+1597935579 /home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/toolsInventorySystem/Tool.h
+	<ctime>
+
+1597935662 source:/home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/toolsInventorySystem/ToolUser.cpp
+	<iostream>
+	"ToolUser.h"
+	"Tool.h"
+	"Inventory.h"
+
+1597939764 /home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/toolsInventorySystem/ToolUser.h
+
+1597940803 source:/home/odazie/Desktop/schoolStuffs/200Level/csc/PRACTICAL/toolsInventorySystem/main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"Inventory.h"
+	"Admin.h"
+	"Tool.h"
+	"ToolUser.h"
+
